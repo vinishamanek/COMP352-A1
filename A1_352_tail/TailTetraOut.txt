@@ -1,0 +1,160 @@
+Tail Tetranacci(5): 2
+Time: 30750 nanoseconds 
+
+
+Tail Tetranacci(10): 56
+Time: 1333 nanoseconds 
+
+
+Tail Tetranacci(15): 1490
+Time: 1083 nanoseconds 
+
+
+Tail Tetranacci(20): 39648
+Time: 1292 nanoseconds 
+
+
+Tail Tetranacci(25): 1055026
+Time: 1750 nanoseconds 
+
+
+Tail Tetranacci(30): 28074040
+Time: 2000 nanoseconds 
+
+
+Tail Tetranacci(35): 747044834
+Time: 2417 nanoseconds 
+
+
+Tail Tetranacci(40): 19878720128
+Time: 3042 nanoseconds 
+
+
+Tail Tetranacci(45): 528968939938
+Time: 3042 nanoseconds 
+
+
+Tail Tetranacci(50): 14075762303480
+Time: 3250 nanoseconds 
+
+
+Tail Tetranacci(55): 374553342295090
+Time: 7167 nanoseconds 
+
+
+Tail Tetranacci(60): 9966792788887776
+Time: 3958 nanoseconds 
+
+
+Tail Tetranacci(65): 265214449530564434
+Time: 4625 nanoseconds 
+
+
+Tail Tetranacci(70): 7057305768232953720
+Time: 4541 nanoseconds 
+
+
+Tail Tetranacci(75): 3326115739525933250
+Time: 5125 nanoseconds 
+
+
+Tail Tetranacci(80): -1917029801431269376
+Time: 5292 nanoseconds 
+
+
+Tail Tetranacci(85): 9090637906711111746
+Time: 5334 nanoseconds 
+
+
+Tail Tetranacci(90): -7109564001247022408
+Time: 6042 nanoseconds 
+
+
+Tail Tetranacci(95): 7765711627022177170
+Time: 6584 nanoseconds 
+
+
+Tail Tetranacci(100): -6791676668216763936
+Time: 7834 nanoseconds 
+
+
+Tail Tetranacci(105): 6334766926495707762
+Time: 7833 nanoseconds 
+
+
+Tail Tetranacci(110): 3288098789758461368
+Time: 7458 nanoseconds 
+
+
+Tail Tetranacci(115): 6288538385696500386
+Time: 9250 nanoseconds 
+
+
+Tail Tetranacci(120): 7520830596777703552
+Time: 8375 nanoseconds 
+
+
+Tail Tetranacci(125): 8626920099348397026
+Time: 109166 nanoseconds 
+
+
+Tail Tetranacci(130): -1729084312461540744
+Time: 31917 nanoseconds 
+
+
+Tail Tetranacci(135): -3085901157739398158
+Time: 33583 nanoseconds 
+
+
+Tail Tetranacci(140): 6723804313387736544
+Time: 28708 nanoseconds 
+
+
+Tail Tetranacci(145): -5430300667136929134
+Time: 1250 nanoseconds 
+
+
+Tail Tetranacci(150): 1488792630874352376
+Time: 1209 nanoseconds 
+
+
+Tail Tetranacci(155): 7527466524838868354
+Time: 43000 nanoseconds 
+
+
+Tail Tetranacci(160): 9209371313270860800
+Time: 36625 nanoseconds 
+
+
+Tail Tetranacci(165): -5549307813617572734
+Time: 35167 nanoseconds 
+
+
+Tail Tetranacci(170): -5618702582944210632
+Time: 30792 nanoseconds 
+
+
+Tail Tetranacci(175): -6070801106580642478
+Time: 89291 nanoseconds 
+
+
+Tail Tetranacci(180): 4874615439004624096
+Time: 29458 nanoseconds 
+
+
+Tail Tetranacci(185): 8792404471256661938
+Time: 1667 nanoseconds 
+
+
+Tail Tetranacci(190): 6298437022385407800
+Time: 1666 nanoseconds 
+
+
+Tail Tetranacci(195): -4426667677197633182
+Time: 1667 nanoseconds 
+
+
+Tail Tetranacci(200): 6417186870153554560
+Time: 2583 nanoseconds 
+
+

@@ -1,0 +1,160 @@
+Linear Tetranacci(5): 2
+Time: 32792 nanoseconds. 
+
+
+Linear Tetranacci(10): 56
+Time: 2291 nanoseconds. 
+
+
+Linear Tetranacci(15): 1490
+Time: 2667 nanoseconds. 
+
+
+Linear Tetranacci(20): 39648
+Time: 3792 nanoseconds. 
+
+
+Linear Tetranacci(25): 1055026
+Time: 4833 nanoseconds. 
+
+
+Linear Tetranacci(30): 28074040
+Time: 6875 nanoseconds. 
+
+
+Linear Tetranacci(35): 747044834
+Time: 6667 nanoseconds. 
+
+
+Linear Tetranacci(40): 19878720128
+Time: 7750 nanoseconds. 
+
+
+Linear Tetranacci(45): 528968939938
+Time: 8875 nanoseconds. 
+
+
+Linear Tetranacci(50): 14075762303480
+Time: 10750 nanoseconds. 
+
+
+Linear Tetranacci(55): 374553342295090
+Time: 15084 nanoseconds. 
+
+
+Linear Tetranacci(60): 9966792788887776
+Time: 12416 nanoseconds. 
+
+
+Linear Tetranacci(65): 265214449530564434
+Time: 13500 nanoseconds. 
+
+
+Linear Tetranacci(70): 7057305768232953720
+Time: 16041 nanoseconds. 
+
+
+Linear Tetranacci(75): 3326115739525933250
+Time: 16000 nanoseconds. 
+
+
+Linear Tetranacci(80): -1917029801431269376
+Time: 16000 nanoseconds. 
+
+
+Linear Tetranacci(85): 9090637906711111746
+Time: 17209 nanoseconds. 
+
+
+Linear Tetranacci(90): -7109564001247022408
+Time: 17959 nanoseconds. 
+
+
+Linear Tetranacci(95): 7765711627022177170
+Time: 18167 nanoseconds. 
+
+
+Linear Tetranacci(100): -6791676668216763936
+Time: 31417 nanoseconds. 
+
+
+Linear Tetranacci(105): 6334766926495707762
+Time: 21542 nanoseconds. 
+
+
+Linear Tetranacci(110): 3288098789758461368
+Time: 22416 nanoseconds. 
+
+
+Linear Tetranacci(115): 6288538385696500386
+Time: 22792 nanoseconds. 
+
+
+Linear Tetranacci(120): 7520830596777703552
+Time: 118459 nanoseconds. 
+
+
+Linear Tetranacci(125): 8626920099348397026
+Time: 3333 nanoseconds. 
+
+
+Linear Tetranacci(130): -1729084312461540744
+Time: 2209 nanoseconds. 
+
+
+Linear Tetranacci(135): -3085901157739398158
+Time: 3084 nanoseconds. 
+
+
+Linear Tetranacci(140): 6723804313387736544
+Time: 2875 nanoseconds. 
+
+
+Linear Tetranacci(145): -5430300667136929134
+Time: 3375 nanoseconds. 
+
+
+Linear Tetranacci(150): 1488792630874352376
+Time: 4084 nanoseconds. 
+
+
+Linear Tetranacci(155): 7527466524838868354
+Time: 3500 nanoseconds. 
+
+
+Linear Tetranacci(160): 9209371313270860800
+Time: 4875 nanoseconds. 
+
+
+Linear Tetranacci(165): -5549307813617572734
+Time: 3542 nanoseconds. 
+
+
+Linear Tetranacci(170): -5618702582944210632
+Time: 3833 nanoseconds. 
+
+
+Linear Tetranacci(175): -6070801106580642478
+Time: 3542 nanoseconds. 
+
+
+Linear Tetranacci(180): 4874615439004624096
+Time: 3917 nanoseconds. 
+
+
+Linear Tetranacci(185): 8792404471256661938
+Time: 3542 nanoseconds. 
+
+
+Linear Tetranacci(190): 6298437022385407800
+Time: 4792 nanoseconds. 
+
+
+Linear Tetranacci(195): -4426667677197633182
+Time: 3917 nanoseconds. 
+
+
+Linear Tetranacci(200): 6417186870153554560
+Time: 4833 nanoseconds. 
+
+
